@@ -14,7 +14,7 @@ body{
     position: relative;
    /* margin-top: 80px;*/
    /* background-image: url(../img/Portada4.JPG);*/
-   background-image: linear-gradient(to top, rgba(161, 140, 209, 0.5) 0%, rgba(251, 194, 235, 0.5) 100%), url(../img/portada4.jpg);
+   background-image: linear-gradient(to top, rgba(161, 140, 209, 0.5) 0%, rgba(251, 194, 235, 0.5) 100%), url(../img/Portada1.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
